@@ -1,10 +1,10 @@
 # Multilayer-Perceptron-Python
-Multilayer Perceptron with Python on Mnist Data
+Multilayer Perceptron with Python on Mnist Data\\
 
-Data: 
-Le fichiermnist_all.csvcontenant les données est fourni au format .csv sans entête et avec la virgule comme séparateur.Il provient d’une extraction de la base MNIST1. Ce fichier comporte 70000 images qu’il faudra répartir dans 3 fichiersafin d’établir les corpus d’apprentissage, de test et de validation. Elles sont constituées d’imagettes normalisées de 28pixels de côté de chiffres manuscrits numérisés en 256 niveaux de gris. La normalisation a été réalisée automatiquementen calculant le centre de masse des pixels, et en translatant l’image de manière à positionner ce point au centre duchamp 28x28.
+Data: \\
+Le fichiermnist_all.csvcontenant les données est fourni au format .csv sans entête et avec la virgule comme séparateur.Il provient d’une extraction de la base MNIST1. Ce fichier comporte 70000 images qu’il faudra répartir dans 3 fichiersafin d’établir les corpus d’apprentissage, de test et de validation. Elles sont constituées d’imagettes normalisées de 28pixels de côté de chiffres manuscrits numérisés en 256 niveaux de gris. La normalisation a été réalisée automatiquementen calculant le centre de masse des pixels, et en translatant l’image de manière à positionner ce point au centre duchamp 28x28.\\
 
-Objectif :
+Objectif :\\
 L’objectif ce devoir est de produire plusieurs modèles des réseaux de neurones exclusivement sur la base surleperceptron multi-couche et sur l’algorithme de rétro-propagationen jouant surles hyper-paramètres, afinde réaliser un apprentissage supervisé. Puis de discuter la qualité de déduction des différents réseaux obtenu grâce à lamise en place d’une expérimentation.
 
 
